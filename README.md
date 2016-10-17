@@ -1,6 +1,6 @@
 # Pokemon
 
-In this notebook I am going to play around with a dataset extracted from Kaggle's user Alberto Barradas' account on Pokemon. The dataset can be found here. This Pokemon data set includes 721 Pokemon, including their number, name, first and second type, and basic stats: HP, Attack, Defense, Special Attack, Special Defense, and Speed.
+In this notebook I am going to play around with a dataset extracted from Kaggle's user [Alberto Barradas'](https://www.kaggle.com/abcsds) account on Pokemon. The dataset can be found [here](https://www.kaggle.com/abcsds/pokemon). This Pokemon data set includes 721 Pokemon, including their number, name, first and second type, and basic stats: HP, Attack, Defense, Special Attack, Special Defense, and Speed.
 
 This are the raw attributes that are used for calculating how much damage an attack will do in the games:
 
