@@ -19,7 +19,11 @@ This are the raw attributes that are used for calculating how much damage an att
 ## Table of contents
 
 1.-Introduction
+
 2.- Libraries
+
 3.- Importing the data
+
 4.- Pokemon attributes
+
 5.- Legendary pokemon
